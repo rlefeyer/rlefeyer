@@ -23,7 +23,7 @@ Here are some of the languages and tools I frequently work with:
 Here are some of my notable projects:
 
 - [Course API](https://github.com/rlefeyer/course-api): A course designed to help students understand the fundamental concepts of API. This project includes practical examples and exercises to reinforce learning.
-- [Practice Agility](https://github.com/rlefeyer/hands-on-agility): This project aims to help students and professionals adopt an agile approach in their software development projects.
+- [Hands-on Agility](https://github.com/rlefeyer/hands-on-agility): This project aims to help students and professionals adopt an agile approach in their software development projects.
 
 ## GitHub Stats
 ![Rlefeyer's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlefeyer&show_icons=true&theme=radical)
